@@ -1,4 +1,4 @@
-# MultiAgentSafetyHackathon
+# MultiAgentSafetyHackathonProject
 <ins>**Balancing Objectives: Ethical Dilemmas and AI's Temptation for Immediate Gains in Team Environments**</ins>: 
 
 
@@ -18,6 +18,7 @@ Generally, there has been a mix of results. In some instances, agents that have 
 
 <ins>**Project Paper**</ins>:
 This is the link to my project paper: [Project Paper](https://docs.google.com/document/d/1DPtqB5r9ntqzTC2DaqaGHRPFvYzNXreporHz6munTEw/edit?usp=sharing)
+
 
 
 
