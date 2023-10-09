@@ -16,7 +16,7 @@ Agents encounter critical decisions before the match—deciding between scoring 
 **Project Findings**: 
 Generally, there has been a mix of results. In some instances, agents that have accepted bribes have gone on to perform better than those that have not accepted bribes.. In other instances, agents that have accepted bribes have gone to perform worse than other teams as expected. 
 
-<ins>**Project Paper**</ins>:
+**Project Paper**:
 This is the link to my project paper: [Project Paper](https://docs.google.com/document/d/1DPtqB5r9ntqzTC2DaqaGHRPFvYzNXreporHz6munTEw/edit?usp=sharing)
 
 
