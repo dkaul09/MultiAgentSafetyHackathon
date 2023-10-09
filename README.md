@@ -1,5 +1,5 @@
 # MultiAgentSafetyHackathonProject
-<ins>**Balancing Objectives: Ethical Dilemmas and AI's Temptation for Immediate Gains in Team Environments**</ins>: 
+<ins>**Balancing Objectives: Ethical Dilemmas and AI's Temptation for Immediate Gains in Team Environments**</ins> 
 
 
 **Project Overview**:
