@@ -1,6 +1,6 @@
 # MultiAgentSafetyHackathon
-<ins>**Balancing Objectives**</ins>: 
-Ethical Dilemmas and AI's Temptation for Immediate Gains in Team Environments
+<ins>**Balancing Objectives: Ethical Dilemmas and AI's Temptation for Immediate Gains in Team Environments**</ins>: 
+
 
 **Project Overview**:
 Through this project, we aim to spotlight the inherent tension between individual gains and team success. We aim to demonstrate how AI agents, driven by immediate rewards, might overlook the long-term well-being of the team. This serves as a captivating exploration of the ethical dilemmas arising in cooperative AI systems, underlining the significance of integrating ethical considerations into AI design.
